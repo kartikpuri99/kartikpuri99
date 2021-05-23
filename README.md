@@ -41,8 +41,8 @@
 <br/>
 
 <a href="https://github.com/kartikpuri99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikpuri99&theme=ayu-mirage&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpuri99&theme=ayu-mirage&layout=compact&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kartikpuri99&theme=ayu-mirage&show_icons=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpuri99&theme=ayu-mirage&layout=compact&hide_border=true" />
 </a>
 
 <br/>
